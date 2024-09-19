@@ -60,15 +60,14 @@ VALUES
   ('B', '2021-01-09');
 ```
 
---Adding Primary Key in menu table
 ```sql
+--Adding Primary Key in menu table
 ALTER TABLE menu
 ADD CONSTRAINT pk_sales
 PRIMARY KEY(product_id);
-```
 
 --Adding foreign key in sales table
-```sql
+
 ALTER TABLE sales
 ADD CONSTRAINT fk_menu
 FOREIGN KEY(product_id)
