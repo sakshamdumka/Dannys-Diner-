@@ -2,8 +2,8 @@
 8 weeks SQL Challenge
 <br>
 
---Create table "sales"
 ```sql
+--Create table "sales"
 CREATE TABLE sales (
   "customer_id" VARCHAR(1),
   "order_date" DATE,
@@ -29,9 +29,9 @@ VALUES
   ('C', '2021-01-01', '3'),
   ('C', '2021-01-07', '3');
 ```
- 
---Create Table "menu"
+
 ```sql
+--Create Table "menu"
 CREATE TABLE menu (
   "product_id" INTEGER,
   "product_name" VARCHAR(5),
@@ -45,9 +45,9 @@ VALUES
   ('2', 'curry', '15'),
   ('3', 'ramen', '12');
 ```
-  
+
+```sql  
 --Create Table "members"
-```sql
 CREATE TABLE members (
   "customer_id" VARCHAR(1),
   "join_date" DATE
