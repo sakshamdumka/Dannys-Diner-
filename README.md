@@ -5,7 +5,7 @@ Danny’s Diner is in need of your assistance to help the restaurant stay afloat
 <br>
 
 ## Project Overview
-Danny's Diner aims to create a deeper connection with customers by analyzing their behaviors and preferences. By leveraging the insights gained from the data, Danny can deliver a more personalized experience and decide on expanding the existing customer loyalty program.
+Danny's Diner aims to create a deeper connection with customers by analyzing their behaviors and preferences. This project is designed to help Danny analyze customer data, enhance customer relationships, and optimize the diner’s loyalty program. It leverages SQL databases to provide insights into customer spending patterns, visiting habits, and menu preferences.
 
 ```sql
 --Create table "sales"
@@ -80,4 +80,4 @@ REFERENCES menu(product_id);
 ```
 
 ## Conclusion
-These queries will provide Danny with valuable insights into customer behavior, spending, and preferences, helping him evaluate the effectiveness of his loyalty program and consider potential expansions.
+By leveraging the insights gained from the data, Danny can deliver a more personalized experience. These queries will provide Danny with valuable insights into customer behavior, spending, and preferences, helping him evaluate the effectiveness of his loyalty program and consider potential expansions.
