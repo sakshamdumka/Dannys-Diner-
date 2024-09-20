@@ -246,4 +246,5 @@ I would like to extend my heartfelt thanks to the page that helped me find this 
 <br>
 Please visit this link for further assisstance.
 <br>
+<br>
 https://8weeksqlchallenge.com/case-study-1/
