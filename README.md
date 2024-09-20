@@ -11,7 +11,9 @@ Danny's Diner aims to create a deeper connection with customers by analyzing the
 The project utilizes three key datasets:
 
 **1. Sales:** Records of customer purchases, including customer IDs, order dates, and product IDs.
+<br>
 **2. Sales:** Menu: Details of menu items, including product IDs, names, and prices.
+<br>
 **3. Members:** Information about customers enrolled in the loyalty program, including their join dates.
 
 ## Data Analysis and findings
