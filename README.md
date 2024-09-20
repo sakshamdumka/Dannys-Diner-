@@ -241,5 +241,7 @@ By leveraging the insights gained from the data, Danny can deliver a more person
 
 ## Thank You
 I would like to extend my heartfelt thanks to the page that helped me find this case study of Danny's Diner project.
+<br>
 Please visit this link for further assisstance.
+<br>
 https://8weeksqlchallenge.com/case-study-1/
