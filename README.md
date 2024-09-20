@@ -231,6 +231,10 @@ SELECT customer_id,
 FROM cte1
 GROUP BY customer_id
 ```
+
+## Conclusion
+By leveraging the insights gained from the data, Danny can deliver a more personalized experience. These queries will provide Danny with valuable insights into customer behavior, spending, and preferences, helping him evaluate the effectiveness of his loyalty program and consider potential expansions.
+
 ## Usage
 **1. Setup:** Ensure you have a PostgreSQL database setup. Import the provided datasets into your database using the ```Create_Insert_queries.sql```.
 <br>
@@ -238,8 +242,6 @@ GROUP BY customer_id
 <br>
 **3. Inspect Results:** Review the results of the queries to gain insights into customer behaviors and preferences.
 
-## Conclusion
-By leveraging the insights gained from the data, Danny can deliver a more personalized experience. These queries will provide Danny with valuable insights into customer behavior, spending, and preferences, helping him evaluate the effectiveness of his loyalty program and consider potential expansions.
 
 ## Thank You
 I would like to extend my heartfelt thanks to the page that helped me find this case study of Danny's Diner project.
