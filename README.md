@@ -230,9 +230,9 @@ FROM cte1
 GROUP BY customer_id
 ```
 ## Usage
-**1. Setup:** Ensure you have a PostgreSQL database setup. Import the provided datasets into your database using the Create_Insert_queries.sql.
+**1. Setup:** Ensure you have a PostgreSQL database setup. Import the provided datasets into your database using the ```Create_Insert_queries.sql```.
 <br>
-**2. Run SQL Queries:** Use the SQL queries provided in the sql_queries.sql file to analyze the data.
+**2. Run SQL Queries:** Use the SQL queries provided in the ```analyses_queries.sql``` file to analyze the data.
 <br>
 **3. Inspect Results:** Review the results of the queries to gain insights into customer behaviors and preferences.
 
