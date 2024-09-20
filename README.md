@@ -238,3 +238,8 @@ GROUP BY customer_id
 
 ## Conclusion
 By leveraging the insights gained from the data, Danny can deliver a more personalized experience. These queries will provide Danny with valuable insights into customer behavior, spending, and preferences, helping him evaluate the effectiveness of his loyalty program and consider potential expansions.
+
+## Thank You
+I would like to extend my heartfelt thanks to the page that helped me find this case study of Danny's Diner project.
+Please visit this link for further assisstance.
+https://8weeksqlchallenge.com/case-study-1/
