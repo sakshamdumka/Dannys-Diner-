@@ -1,5 +1,5 @@
 # Dannys-Diner-
-8 weeks SQL Challenge
+Welcome to Danny's Diner! This project is designed to help Danny analyze customer data, enhance customer relationships, and optimize the diner’s loyalty program. It leverages SQL databases to provide insights into customer spending patterns, visiting habits, and menu preferences.
 <br>
 
 ```sql
@@ -74,3 +74,5 @@ FOREIGN KEY(product_id)
 REFERENCES menu(product_id);
 ```
 
+## Conclusion
+These queries will provide Danny with valuable insights into customer behavior, spending, and preferences, helping him evaluate the effectiveness of his loyalty program and consider potential expansions.
