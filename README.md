@@ -4,6 +4,8 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 <br>
 
+![image alt](https://github.com/sakshamdumka/Dannys-Diner-/blob/d3e20f8c9b6af7ff20a1dcafd0924bb23b9003a0/Dannysdiner.png)
+
 ## Project Overview
 Danny's Diner aims to create a deeper connection with customers by analyzing their behaviors and preferences. This project is designed to help Danny analyze customer data, enhance customer relationships, and optimize the diner’s loyalty program. It leverages SQL databases to provide insights into customer spending patterns, visiting habits, and menu preferences.
 
