@@ -227,6 +227,10 @@ SELECT customer_id,
 FROM cte1
 GROUP BY customer_id
 ```
+## Usage
+**1. Setup:** Ensure you have a PostgreSQL database setup. Import the provided datasets into your database using the Create_Insert_queries.sql.
+**2. Run SQL Queries:** Use the SQL queries provided in the sql_queries.sql file to analyze the data.
+**3. Inspect Results:** Review the results of the queries to gain insights into customer behaviors and preferences.
 
 ## Conclusion
 By leveraging the insights gained from the data, Danny can deliver a more personalized experience. These queries will provide Danny with valuable insights into customer behavior, spending, and preferences, helping him evaluate the effectiveness of his loyalty program and consider potential expansions.
